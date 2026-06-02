@@ -2,7 +2,7 @@
 
 A secure, layered RESTful Banking API built with **ASP.NET Core 8**, **Entity Framework Core**, **SQL Server**, and **JWT Authentication**.
 
-The project follows a clean **N-Layer Architecture** consisting of:
+The project follows a **Clean Architecture** consisting of:
 
 * Presentation Layer (API Controllers)
 * Application Layer (Contracts, DTOs, Validation)
